@@ -1,0 +1,249 @@
+#navega {
+    font-family: "Raleway", sans-serif;
+}
+
+#landingHolder {
+    height: 100vh;
+    display: block;
+    max-width: 100%;
+}
+
+#landing {
+    position: absolute;
+    float: left;
+    color: white;
+    background: rgba(30, 34, 34, 0.9);
+    width: 100vw;
+    height: 100vh;
+    z-index: 100;
+    max-width: 100%;
+}
+
+#videoHolder {
+    max-width: 120%;
+    overflow: hidden;
+}
+
+#player {
+    width: 100vw;
+    height: 100vh;
+}
+
+#logo {
+    width: 90px;
+    height: 40px;
+    padding-bottom: 15px;
+}
+
+#bigName {
+    margin-left: 5vw;
+    margin-top: 30vh;
+    font-size: 13vw;
+    font-family: "Cabin Sketch", cursive;
+}
+
+#subName {
+    margin-left: 7.5vw;
+    margin-top: -18px;
+    font-size: 3.1vw;
+    font-family: "Raleway", sans-serif;
+}
+
+#arrowMove {
+    position: absolute;
+    bottom: 5px;
+    left: 50%;
+    margin-left: -21px;
+}
+
+#skills {
+    background: #201e1ebb;
+    width: 100vw;
+    min-height: 75vh;
+    max-width: 100%;
+    padding-bottom: 30px;
+}
+
+#jq {
+    height: 86px;
+    width: 86px;
+    margin: 10px auto auto auto;
+}
+
+#PhP {
+    height: 86px;
+    width: 116px;
+    margin: 10px auto auto auto;
+}
+
+.page-header {
+    color: white;
+    font-size: 400%;
+    font-family: "Cabin Sketch", cursive;
+}
+
+.portLeft {
+    margin-bottom: 0;
+}
+
+.portHead {
+    color: white;
+    font-family: "Cabin Sketch", cursive;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+    text-shadow: 0px 0px 4px white;
+}
+
+.portDesc {
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-size: 110%;
+    padding: 10px 0px 0px 0px;
+    margin-left: 0px;
+}
+
+.portImg {
+    width: 95%;
+    box-shadow: 0px 0px 10px black;
+}
+
+.indiLine {
+    box-shadow: 0px 0px 15px 5px #213131;
+    margin: 0;
+    width: 100vw;
+    max-width: 100%;
+}
+
+#indi1 {
+    background: url('../development island/Concept SItes/App Landing Page (Bootsrap)/images/preview.png');
+    background-size: contain;
+}
+
+#indi2 {
+    background: url("../development island/Concept SItes/Company website(bootstrap)/images/preview.png");
+    background-size: contain;
+}
+
+#indi3 {
+    background: url("../development island/Concept SItes/fruits game(Jquery/images/preview.png");
+    background-size: contain;
+}
+
+#indi4 {
+    background: url("../development island/Concept SItes/Maths Website (HTML & CSS)/images/preview.png");
+    background-size: contain;
+}
+
+#indi5 {
+    background: url("preview_studio304.png");
+    background-size: contain;
+}
+
+#indi6 {
+    background: url("../development island/Concept SItes/bootstrap cheat/preview.png");
+    background-size: contain;
+}
+
+#indi7 {
+    background: url("../development island/Concept SItes/our lovely course/images/preview.png");
+    background-size: contain;
+}
+
+#indi8 {
+    background: url("../development island/Concept SItes/Drawing App(jQuery,jQuery UI,HTML5 canvas/preview.png");
+    background-size: contain;
+}
+
+
+/*
+#indi9 {
+    background: url(http://);
+    background-size: contain;
+}
+
+#indi10 {
+    background: url();
+    background-size: contain;
+}*/
+
+.portIndi {
+    padding-right: 0;
+    padding-left: 0;
+    box-shadow: inset 0px 0px 15px 15px rgba(0, 0, 0, 0.5);
+}
+
+.portIndi:hover {
+    transform: scale(1.1, 1.1);
+    overflow: hidden;
+    z-index: 125;
+}
+
+.portIndi:active {
+    transform: scale(1.1, 1.1);
+}
+
+.indiImg {
+    position: relative;
+    z-index: -1;
+}
+
+#myProjects {
+    background: #3d5c5c;
+    width: 100vw;
+    min-height: 90vh;
+    max-width: 100%;
+}
+
+.careOcel {
+    width: 100vw;
+    min-height: 65vh;
+    max-width: 100%;
+    padding-top: 30px;
+}
+
+#contact {
+    background: #293d3d;
+    width: 100vw;
+    min-height: 500px;
+    max-width: 100%;
+    padding-bottom: 10px;
+}
+
+.aboutMi {
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-size: 110%;
+}
+
+img.cennerMi {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#preFoot {
+    height: 100px;
+    color: white;
+    background-color: #595959;
+}
+
+#social {
+    width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+}
+
+.footie {
+    color: white;
+    background-color: #333333;
+    height: 50px;
+}
